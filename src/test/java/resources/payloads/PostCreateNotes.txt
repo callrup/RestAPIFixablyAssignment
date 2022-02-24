@@ -1,0 +1,2 @@
+Type:Issue
+Description:Screen damaged

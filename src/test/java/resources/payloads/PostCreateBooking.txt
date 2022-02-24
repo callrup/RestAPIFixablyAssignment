@@ -1,0 +1,3 @@
+DeviceManufacturer : Lava
+DeviceType: Laptop
+DeviceBrand: Xperia
