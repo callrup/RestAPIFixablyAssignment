@@ -3,16 +3,13 @@
 Assignemnt on Rest API testing
 
 Author : Rupam Chatterjee
-Project Overview
+#Project Overview
 The project is a CUCUMBER BDD frameowrk based on Rest Assured ,Maven
 
-Link to Detail Test Documentation
+#Link to Detail Test Documentation
 Tests are BDD-Cucumber based . Both Success and Fail test cases are being taken into consideration . Test can be run in any environmnet by changing the environment properties
 
-Link to Payconiq API Automation Doc
-To Run Go to the project root directory.
-
-Precondition : We expect Java8 (Oracle JDK) and Maven is installed on the system.
+#Precondition : We expect Java8 (Oracle JDK) and Maven is installed on the system.
 
 Link to Oracle JDK
 
